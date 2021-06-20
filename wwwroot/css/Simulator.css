@@ -1,0 +1,17 @@
+﻿body {
+}
+.card-body {
+    font-size: 14px;
+    font-family: 'Sofia', cursive;
+    padding: 0;
+    background: #294731;
+}
+.card {
+    border: 1px solid #665442 !important;
+    text-align: center;
+}
+p {
+    font-family: Arial !important;
+    color: #ffffff !important;
+    text-align: center !important;
+}

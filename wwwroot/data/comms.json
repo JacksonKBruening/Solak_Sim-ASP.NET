@@ -1,0 +1,180 @@
+ [
+	{
+		"name": "Coins",
+		"value": 1,
+		"rarity": "(1/17)",
+		"range": "748333-899844",
+		"img": "https://user-images.githubusercontent.com/85266719/121747819-96ada180-cacd-11eb-94b7-4ad85245c1cf.png"
+
+	},
+	{
+		"name": "Kwuarm",
+		"value": 15176,
+		"rarity": "(1/17)",
+		"range": "155-200",
+		"img": "https://user-images.githubusercontent.com/85266719/121748888-5fd88b00-cacf-11eb-8a62-f1dfee1e3e24.png"
+	},
+	{
+		"name": "Medium Rune Salvage",
+		"value": 22631,
+		"rarity": "(1/17)",
+		"range": "30-45",
+		"img": "https://user-images.githubusercontent.com/85266719/121748907-67982f80-cacf-11eb-8d5e-60420dfeb4e9.png"
+	},
+	{
+		"name": "Battlestaff",
+		"value": 3150,
+		"rarity": "(1/17)",
+		"range": "75-125",
+		"img": "https://user-images.githubusercontent.com/85266719/121748927-6d8e1080-cacf-11eb-8677-9cd77fc40d6c.png"
+	},
+	{
+		"name": "Onyx Bolt Tips",
+		"value": 7563,
+		"rarity": "(1/17)",
+		"range": "128-172",
+		"img": "https://user-images.githubusercontent.com/85266719/121749042-a0380900-cacf-11eb-943a-d6d730e0e809.png"
+	},
+	{
+		"name": "Hydrix Bolt Tips",
+		"value": 41050,
+		"rarity": "(1/17)",
+		"range": "100-183",
+		"img": "https://user-images.githubusercontent.com/85266719/121749068-aa5a0780-cacf-11eb-83ac-8d3cafd61bdf.png"
+	},
+	{
+		"name": "Sirenic Scale",
+		"value": 428784,
+		"rarity": "(1/17)",
+		"range": "3-5",
+		"img": "https://user-images.githubusercontent.com/85266719/121749078-b0e87f00-cacf-11eb-8ba9-9d0e9c73191d.png"
+	},
+	{
+		"name": "Tiny Rune Salvage",
+		"value": 6732,
+		"rarity": "(1/17)",
+		"range": "29-85",
+		"img": "https://user-images.githubusercontent.com/85266719/121749597-89de7d00-cad0-11eb-8d52-8569bba0cf21.png"
+	},
+	{
+		"name": "Saradomin Wines",
+		"value": 112318,
+		"rarity": "(1/17)",
+		"range": "15-25",
+		"img": "https://user-images.githubusercontent.com/85266719/121749112-bcd44100-cacf-11eb-9dca-3241795f3c32.png"
+	},
+	{
+		"name": "Crushed Nests",
+		"value": 3576,
+		"rarity": "(1/17)",
+		"range": "200-250",
+		"img": "https://user-images.githubusercontent.com/85266719/121749124-c2ca2200-cacf-11eb-86d9-d96c043da581.png"
+	},
+	{
+		"name": "Cadantine",
+		"value": 5757,
+		"rarity": "(1/17)",
+		"range": "151-200",
+		"img": "https://user-images.githubusercontent.com/85266719/121749135-c8c00300-cacf-11eb-8313-4113db1d32a2.png"
+	},
+	{
+		"name": "Banite Stone Spirits",
+		"value": 4465,
+		"rarity": "(1/17)",
+		"range": "50-104",
+		"img": "https://user-images.githubusercontent.com/85266719/121749257-f9a03800-cacf-11eb-9d2f-d133ef5f28f4.png"
+	},
+	{
+		"name": "Light Animica Stone Spirits",
+		"value": 4453,
+		"rarity": "(1/17)",
+		"range": "40-104",
+		"img": "https://user-images.githubusercontent.com/85266719/121748791-30c21980-cacf-11eb-92ce-d48ef7320cb5.png"
+	},
+	{
+		"name": "Black Dragonhide",
+		"value": 2397,
+		"rarity": "(1/17)",
+		"range": "252-341",
+		"img": "https://user-images.githubusercontent.com/85266719/121748774-299b0b80-cacf-11eb-9a91-8bc4f874f9aa.png"
+	},
+	{
+		"name": "Irit",
+		"value": 3357,
+		"rarity": "(1/17)",
+		"range": "156-200",
+		"img": "https://user-images.githubusercontent.com/85266719/121749270-002eaf80-cad0-11eb-9c24-23a874f25e57.png"
+	},
+	{
+		"name": "Uncut Onyx",
+		"value": 3289241,
+		"rarity": "(1/17)",
+		"range": "1-2",
+		"img": "https://user-images.githubusercontent.com/85266719/121749293-0886ea80-cad0-11eb-9073-32a51cfea99e.png"
+	},
+	{
+		"name": "Uncut Dragonstone",
+		"value": 9427,
+		"rarity": "(1/17)",
+		"range": "75-100",
+		"img": "https://user-images.githubusercontent.com/85266719/121749311-0fadf880-cad0-11eb-848b-abf8ac531686.png"
+	},
+	{
+		"name": "Blightbound Crossbow",
+		"value": 950000000,
+		"rarity": "(1/400)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749321-163c7000-cad0-11eb-8ce0-07676f8d0995.png"
+	},
+	{
+		"name": "OH Blightbound Crossbow",
+		"value": 1650000000,
+		"rarity": "(1/400)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749336-1dfc1480-cad0-11eb-82cf-fedc2b58e596.png"
+	},
+	{
+		"name": "Erethdor's Griomoire",
+		"value": 370000000,
+		"rarity": "(1/200)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749356-25bbb900-cad0-11eb-80c8-8714846283af.png"
+	},
+	{
+		"name": "Meriethels Stave",
+		"value": 3000000,
+		"rarity": "(1/500)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749474-569bee00-cad0-11eb-9a93-35a504689de8.png"
+	},
+	{
+		"name": "Purple Mushroom",
+		"value": 3000000,
+		"rarity": "(1/500)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749458-50a60d00-cad0-11eb-834f-d2266dd37104.png"
+	},
+	{
+		"name": "Cinderbane Gloves",
+		"value": 80000000,
+		"rarity": "(1/1000)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749487-5d2a6580-cad0-11eb-9faa-53be927fcdca.png"
+	},
+	{
+		"name": "Ancient Elven Ritual Shard",
+		"value": 18000000,
+		"rarity": "(1/1000)",
+		"range": "1",
+		"img": "https://user-images.githubusercontent.com/85266719/121749512-674c6400-cad0-11eb-98f6-9aae7d9f9f5b.png"
+	},
+	{
+		"name": "Grimoire Page",
+		"value": 6000000,
+		"rarity": "(1/4)",
+		"range": "1-2",
+		"img": "https://user-images.githubusercontent.com/85266719/121749500-6287b000-cad0-11eb-9e02-7a8cb71f3b15.png"
+	}
+
+
+	]
